@@ -4,6 +4,12 @@
 
 ■[公式テキスト](https://docs.microsoft.com/ja-jp/learn/certifications/courses/pl-300t00)
 
+* [データ分析を理解する - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/data-analytics-microsoft/)
+* [Power BI を使用してビルドを開始する - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/get-started-with-power-bi/)
+* [Power BI でデータを取得する - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/get-data/)
+* [Power BI でのデータのクリーニング、変換、読み込み - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/clean-data-power-bi/)
+* [Power BI でデータ モデルを設計する  - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/design-model-power-bi/)
+
 ## ラボ
 
 ■[ラボ環境](https://aka.ms/lab-env)
