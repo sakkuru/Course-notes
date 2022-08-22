@@ -1,5 +1,7 @@
 # PL-300 Microsoft Power BI Data Analyst
 
+■[セットアップ手順](https://publicsharestor.blob.core.windows.net/pl300/Opening.pdf)
+
 ■[公式テキスト](https://docs.microsoft.com/ja-jp/learn/certifications/courses/pl-300t00)
 
 ## ラボ
