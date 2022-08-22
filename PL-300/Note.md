@@ -4,11 +4,21 @@
 
 ■[公式テキスト](https://docs.microsoft.com/ja-jp/learn/certifications/courses/pl-300t00)
 
-* [データ分析を理解する - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/data-analytics-microsoft/)
-* [Power BI を使用してビルドを開始する - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/get-started-with-power-bi/)
-* [Power BI でデータを取得する - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/get-data/)
-* [Power BI でのデータのクリーニング、変換、読み込み - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/clean-data-power-bi/)
-* [Power BI でデータ モデルを設計する  - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/design-model-power-bi/)
+* [M01: データ分析を理解する - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/data-analytics-microsoft/)
+* [M01: Power BI を使用してビルドを開始する - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/get-started-with-power-bi/)
+* [M02: Power BI でデータを取得する - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/get-data/)
+* [M03: Power BI でのデータのクリーニング、変換、読み込み - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/clean-data-power-bi/)
+* [M04: Power BI でデータ モデルを設計する  - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/design-model-power-bi/)
+* [M05: Power BI での DAX を使用したメジャーの作成の概要 - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/create-measures-dax-power-bi/)
+* [M06: Power BI でのパフォーマンスに対するモデルの最適化  - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/optimize-model-power-bi/)
+* [M07: Power BI の視覚化を操作する - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/visuals-power-bi/)
+* [M07: Power BI レポートを使用してデータに基づくストーリーを作成する - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/data-driven-story-power-bi/)
+* [M08: Power BI 内でダッシュボードを作成する - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/create-dashboards-power-bi/)
+* [M09: Power BI で高度な分析を実行する  - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/perform-analytics-power-bi/)
+* [M09: Power BI での AI 視覚エフェクトの操作 - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/ai-visuals-power-bi/)
+* [M10: Power BI でワークスペースを作成および管理する  - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/create-manage-workspaces-power-bi/)
+* [M11: Power BI でのデータセットの管理  - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/manage-datasets-power-bi/)
+* [M12: 行レベルのセキュリティを実装する - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/row-level-security-power-bi/)
 
 ## ラボ
 
