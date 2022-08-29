@@ -24,7 +24,9 @@
 
 ■[ラボ環境](https://aka.ms/lab-env)
 
-■[ラボ手順書とファイル一式](https://github.com/sakkuru/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp)
+■[ラボファイルのダウンロード](https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp/archive/refs/heads/main.zip)
+
+■[ラボのリポジトリ](https://github.com/sakkuru/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp)
 
 * [01: Power BI Desktop でのデータの準備](https://github.com/sakkuru/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp/blob/main/Instructions/01-prepare-data-with-power-query-in-power-bi-desktop.md)
 * [02: Power BI Desktop でデータを読み込む](https://github.com/sakkuru/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp/blob/main/Instructions/02-load-data-with-power-query-in-power-bi-desktop.md)
