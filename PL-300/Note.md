@@ -49,6 +49,10 @@
 
 * [Power BI のワークスペースのロール - Power BI | Microsoft Docs](https://docs.microsoft.com/ja-jp/power-bi/collaborate-share/service-roles-new-workspaces)
 
+* [Ideas](https://ideas.powerbi.com/ideas/)
+
+* [製品ロードマップ | Microsoft Dynamics 365](https://powerbi.microsoft.com/ja-jp/roadmap/)
+
 * [Power BI でのデータセットの増分更新とリアルタイム データ - Power BI | Microsoft Docs](https://docs.microsoft.com/ja-jp/power-bi/connect-data/incremental-refresh-overview)
 
 * [Power BI サービスでのコンテンツ共有方法の種類 | Japan CSS Support Power BI Blog](https://jpbap-sqlbi.github.io/blog/powerbi/pbi_contents_share_1/)
