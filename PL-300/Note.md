@@ -49,7 +49,7 @@
 
 * [Power BI のワークスペースのロール - Power BI | Microsoft Docs](https://docs.microsoft.com/ja-jp/power-bi/collaborate-share/service-roles-new-workspaces)
 
-* [Ideas](https://ideas.powerbi.com/ideas/)
+* [Power BI Ideas](https://ideas.powerbi.com/ideas/)
 
 * [製品ロードマップ | Microsoft Dynamics 365](https://powerbi.microsoft.com/ja-jp/roadmap/)
 
