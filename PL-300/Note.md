@@ -41,7 +41,15 @@
 
 ## その他リンク
 
+* [プライバシー レベルの選択について | Japan CSS Support Power BI Blog](https://jpbap-sqlbi.github.io/blog/powerbi/pbi_privacylevels/)
+
+* [Session 12: Building Multi-language Reports in Power BI · Power BI Dev Camp](https://powerbidevcamp.powerappsportals.com/sessions/session12/)
+
 * [Power BI ライセンスの違い（Free・Pro・Premium Per User・Premium Per Capacity・Embedded） | Japan CSS Support Power BI Blog](https://jpbap-sqlbi.github.io/blog/powerbi/pbi_license/)
 
-* [Power BI サービスでのコンテンツ共有方法の種類 | Japan CSS Support Power BI Blog](https://jpbap-sqlbi.github.io/blog/powerbi/pbi_contents_share_1/)
+* [Power BI のワークスペースのロール - Power BI | Microsoft Docs](https://docs.microsoft.com/ja-jp/power-bi/collaborate-share/service-roles-new-workspaces)
+
 * [Power BI でのデータセットの増分更新とリアルタイム データ - Power BI | Microsoft Docs](https://docs.microsoft.com/ja-jp/power-bi/connect-data/incremental-refresh-overview)
+
+* [Power BI サービスでのコンテンツ共有方法の種類 | Japan CSS Support Power BI Blog](https://jpbap-sqlbi.github.io/blog/powerbi/pbi_contents_share_1/)
+
