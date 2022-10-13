@@ -35,8 +35,8 @@ M04: 運用リソースの監視と最適化
 
 M05: クエリのパフォーマンスの最適化
 * [クエリ パフォーマンスの最適化を調べる - Training | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/explore-query-performance-optimization/)
-* [パフォーマンスの向上を評価する - Training | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/evaluate-performance-improvements/)
 * [パフォーマンスベースの設計を詳しく学ぶ - Training | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/explore-performance-based-design/)
+* [パフォーマンスの向上を評価する - Training | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/evaluate-performance-improvements/)
 * [ラボ08: 障害となっている問題を特定して解決する](https://sakkuru.github.io/dp-300-database-administrator/Instructions/Labs/08-identify-resolve-blocking-issues.html)
 * [ラボ09: データベース設計の問題を特定する](https://sakkuru.github.io/dp-300-database-administrator/Instructions/Labs/09-identify-issues-database-design.html)
 * [ラボ10: SQL Database でパフォーマンスの悪いクエリの問題領域を分離する](https://sakkuru.github.io/dp-300-database-administrator/Instructions/Labs/10-isolate-problem-areas-poor-performing-queries.html)
