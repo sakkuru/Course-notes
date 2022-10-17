@@ -57,3 +57,5 @@
 
 * [Power BI サービスでのコンテンツ共有方法の種類 | Japan CSS Support Power BI Blog](https://jpbap-sqlbi.github.io/blog/powerbi/pbi_contents_share_1/)
 
+* [Azure Active Directory B2B を使用して外部ゲスト ユーザーに Power BI コンテンツを配布する - Power BI | Microsoft Learn](https://learn.microsoft.com/ja-jp/power-bi/guidance/whitepaper-azure-b2b-power-bi#under-the-hood-how-is-lucy-from-supplier1-able-to-access-power-bi-content-from-contosos-tenant)
+
