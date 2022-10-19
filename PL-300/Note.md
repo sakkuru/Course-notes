@@ -41,6 +41,8 @@
 
 ## その他リンク
 
+* [Select Distinct Rows Ordered by Another Column -- ... - Microsoft Power BI Community](https://community.powerbi.com/t5/Community-Blog/Select-Distinct-Rows-Ordered-by-Another-Column-Power-Query/bc-p/2168714)
+
 * [プライバシー レベルの選択について | Japan CSS Support Power BI Blog](https://jpbap-sqlbi.github.io/blog/powerbi/pbi_privacylevels/)
 
 * [Session 12: Building Multi-language Reports in Power BI · Power BI Dev Camp](https://powerbidevcamp.powerappsportals.com/sessions/session12/)
@@ -59,3 +61,10 @@
 
 * [Azure Active Directory B2B を使用して外部ゲスト ユーザーに Power BI コンテンツを配布する - Power BI | Microsoft Learn](https://learn.microsoft.com/ja-jp/power-bi/guidance/whitepaper-azure-b2b-power-bi#under-the-hood-how-is-lucy-from-supplier1-able-to-access-power-bi-content-from-contosos-tenant)
 
+* [DAX 関数リファレンス - DAX | Microsoft Learn](https://learn.microsoft.com/ja-jp/dax/dax-function-reference)
+
+* [オンプレミスのデータ ゲートウェイ用シングル サインオン (SSO) の概要 - Power BI | Microsoft Learn](https://learn.microsoft.com/ja-jp/power-bi/connect-data/service-gateway-sso-overview)
+
+* [Power BI 管理者ロールについて - Power BI | Microsoft Learn](https://learn.microsoft.com/ja-jp/power-bi/admin/service-admin-role)
+
+* [管理ポータルについて - Power BI | Microsoft Learn](https://learn.microsoft.com/ja-jp/power-bi/admin/service-admin-portal)
