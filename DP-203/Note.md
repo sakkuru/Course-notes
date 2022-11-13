@@ -1,16 +1,32 @@
-# DP-203
+# DP-203 Data Engineering in Azure
 
-# リンク集
+■[公式テキスト](https://docs.microsoft.com/ja-jp/users/msftofficialcurriculum-4292/collections/w10nhwnp08jxno?wt.mc_id=esi_m2l_content_wwl)
 
-* [テキスト](https://docs.microsoft.com/ja-jp/users/msftofficialcurriculum-4292/collections/w10nhwnp08jxno?wt.mc_id=esi_m2l_content_wwl)
-* [ラボ・日本語](https://github.com/sakkuru/DP-203JA-Data-Engineering-on-Microsoft-Azure?organization=sakkuru&organization=sakkuru)
-* [ラボ・英語](https://github.com/MicrosoftLearning/DP-203-Data-Engineer)
-* [Azure Passの残額・残日数確認](https://www.microsoftazuresponsorships.com/)
-* [ラボ環境](https://tsfb.learnondemand.net/User/Login?ReturnUrl=%2f)
+## ラボ
 
-## Day 1
+■[セットアップ手順](https://publicfilestor.blob.core.windows.net/dp203/Opening.pdf)
 
-* [コレクション - MSFTofficialCurriculum-4292 | Microsoft Docs](https://docs.microsoft.com/ja-jp/users/msftofficialcurriculum-4292/collections/w10nhwnp08jxno?wt.mc_id=esi_m2l_content_wwl)
+■[ラボ環境](https://aka.ms/lab-env)
+
+■[ラボ手順一覧](https://sakkuru.github.io/DP-203JA-Data-Engineering-on-Microsoft-Azure/)
+
+* [プレインストールされた仮想マシンを使用したラボ環境のセットアップ](https://sakkuru.github.io/DP-203JA-Data-Engineering-on-Microsoft-Azure/Instructions/Labs/LAB_00_lab_setup_instructions.html)
+* [ラボ 1 - データ エンジニアリング ワークロードのコンピューティングおよびストレージ オプションを確認する](https://sakkuru.github.io/DP-203JA-Data-Engineering-on-Microsoft-Azure/Instructions/Labs/LAB_01_compute_and_storage_options.html)
+* [ラボ 2 - サーバーレス SQL プールを使用してインタラクティブなクエリを実行する](https://sakkuru.github.io/DP-203JA-Data-Engineering-on-Microsoft-Azure/Instructions/Labs/LAB_02_queries_using_serverless_sql_pools.html)
+* [ラボ 3 - Azure Databricks でのデータの探索と変換](https://sakkuru.github.io/DP-203JA-Data-Engineering-on-Microsoft-Azure/Instructions/Labs/LAB_03_data_transformation_in_databricks.html)
+* [ラボ 4 - Apache Spark を使用してデータの探索と変換を行い、データ ウェアハウスに読み込む](https://sakkuru.github.io/DP-203JA-Data-Engineering-on-Microsoft-Azure/Instructions/Labs/LAB_04_data_warehouse_using_apache_spark.html)
+* [ラボ 5 - データ ウェアハウスにデータを取り込んで読み込む](https://sakkuru.github.io/DP-203JA-Data-Engineering-on-Microsoft-Azure/Instructions/Labs/LAB_05_load_data_into_the_data_warehouse.html)
+* [ラボ 6 - Azure Data Factory または Azure Synapse パイプラインでデータを変換する](https://sakkuru.github.io/DP-203JA-Data-Engineering-on-Microsoft-Azure/Instructions/Labs/LAB_06_transform_data_with_pipelines.html)
+* [ラボ 7 - ノートブックのデータを Azure Data Factory または Azure Synapse パイプラインと統合する](https://sakkuru.github.io/DP-203JA-Data-Engineering-on-Microsoft-Azure/Instructions/Labs/LAB_07_integrate_data_from_notebooks.html)
+* [ラボ 8 - Azure Synapse Analytics を使用したエンドツーエンドのセキュリティ](https://sakkuru.github.io/DP-203JA-Data-Engineering-on-Microsoft-Azure/Instructions/Labs/LAB_08_security_with_synapse_analytics.html)
+* [ラボ 9 - Azure Synapse Link を使用してハイブリッド トランザクション分析処理 (HTAP) に対応する](https://sakkuru.github.io/DP-203JA-Data-Engineering-on-Microsoft-Azure/Instructions/Labs/LAB_09_htap_with_azure_synapse_link.html)
+* [ラボ 10 - Stream Analytics によるリアルタイムのストリーム処理](https://sakkuru.github.io/DP-203JA-Data-Engineering-on-Microsoft-Azure/Instructions/Labs/LAB_10_stream_analytics.html)
+* [ラボ 11 - Event Hubs と Azure Databricks を使用してストリーム処理ソリューションを作成する](https://sakkuru.github.io/DP-203JA-Data-Engineering-on-Microsoft-Azure/Instructions/Labs/LAB_11_stream_with_azure_databricks.html)
+
+■[Azure Passの残額・残日数確認](https://www.microsoftazuresponsorships.com/)
+
+## その他リンク
+
 * [クイックスタート: - Azure Synapse Analytics | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/synapse-analytics/quickstart-create-apache-spark-pool-studio)
 * [Synapse ワークスペースのアクセス制御を設定する方法 - Azure Synapse Analytics | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/synapse-analytics/security/how-to-set-up-access-control#access-control-mechanisms)
 * [アクセスおよびアクセス許可の概要 - Azure Purview | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/purview/catalog-permissions)
@@ -20,7 +36,6 @@
 * [予期しないクラスターの終了-Azure Databricks | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/databricks/kb/clusters/termination-reasons#launch-failure)
 * [SKU が使用できないエラー - Azure Resource Manager | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/azure-resource-manager/troubleshooting/error-sku-not-available?tabs=azure-cli#solution-1---powershell)
 
-## Day 2
 
 * [Azure プライベート エンドポイントとは | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/private-link/private-endpoint-overview)
 * [Azure Synapse Analytics への読み込み方法について説明する - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/use-data-loading-best-practices-azure-synapse-analytics/3-explain-loading-methods)
@@ -31,7 +46,6 @@
 * [マネージド仮想ネットワーク - Azure Synapse Analytics | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/synapse-analytics/security/synapse-workspace-managed-vnet)
 
 
-## Day 3
 
 * [Synapse RBAC ロール - Azure Synapse Analytics | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/synapse-analytics/security/synapse-workspace-synapse-rbac-roles)
 * [Synapse Studio でのソース管理 - Azure Synapse Analytics | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/synapse-analytics/cicd/source-control)
@@ -52,7 +66,6 @@
 * [Azure Synapse Analytics ワークスペースでのデータ流出の防止 - Azure Synapse Analytics | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/synapse-analytics/security/workspace-data-exfiltration-protection)
 
 
-## Day 4
 
 * [列と行のレベルのセキュリティを使用して認可を管理する - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/secure-data-warehouse-azure-synapse-analytics/5-manage-authorization-through-column-row-level-security)
 * [HASHBYTES (Transact-SQL) - SQL Server | Microsoft Docs](https://docs.microsoft.com/en-us/sql/t-sql/functions/hashbytes-transact-sql?view=sql-server-ver15#examples)
