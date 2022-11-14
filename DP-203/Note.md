@@ -1,6 +1,6 @@
 # DP-203 Data Engineering in Azure
 
-■[公式テキスト](https://docs.microsoft.com/ja-jp/users/msftofficialcurriculum-4292/collections/w10nhwnp08jxno?wt.mc_id=esi_m2l_content_wwl)
+■[公式テキスト](https://learn.microsoft.com/ja-jp/training/courses/dp-203t00?wt.mc_id=esi_m2l_content_wwl)
 
 ## ラボ
 
