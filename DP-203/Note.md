@@ -11,7 +11,7 @@
 ■[ラボ手順一覧](https://sakkuru.github.io/DP-203JA-Data-Engineering-on-Microsoft-Azure/)
 
 * [プレインストールされた仮想マシンを使用したラボ環境のセットアップ](https://sakkuru.github.io/DP-203JA-Data-Engineering-on-Microsoft-Azure/Instructions/Labs/LAB_00_lab_setup_instructions.html)
-* [ラボ 1 - データ エンジニアリング ワークロードのコンピューティングおよびストレージ オプションを確認する](https://sakkuru.github.io/DP-203JA-Data-Engineering-on-Microsoft-Azure/Instructions/Labs/LAB_01_compute_and_storage_options.html)
+* [ラボ 1 - データ エンジニアリング ワークロードのコンピューティングおよびストレージ オプションを確認する](https://github.com/sakkuru/DP-203JA-Data-Engineering-on-Microsoft-Azure/blob/1107/Instructions/Labs/LAB_01_compute_and_storage_options.md)
 * [ラボ 2 - サーバーレス SQL プールを使用してインタラクティブなクエリを実行する](https://sakkuru.github.io/DP-203JA-Data-Engineering-on-Microsoft-Azure/Instructions/Labs/LAB_02_queries_using_serverless_sql_pools.html)
 * [ラボ 3 - Azure Databricks でのデータの探索と変換](https://sakkuru.github.io/DP-203JA-Data-Engineering-on-Microsoft-Azure/Instructions/Labs/LAB_03_data_transformation_in_databricks.html)
 * [ラボ 4 - Apache Spark を使用してデータの探索と変換を行い、データ ウェアハウスに読み込む](https://sakkuru.github.io/DP-203JA-Data-Engineering-on-Microsoft-Azure/Instructions/Labs/LAB_04_data_warehouse_using_apache_spark.html)
