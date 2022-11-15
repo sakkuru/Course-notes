@@ -1,5 +1,7 @@
 # DP-203 Data Engineering in Azure
 
+■[セットアップ手順](https://publicfilestor.blob.core.windows.net/dp203/Opening.pdf)
+
 ■[公式テキスト](https://learn.microsoft.com/ja-jp/training/courses/dp-203t00?wt.mc_id=esi_m2l_content_wwl)
 
 * [M01: Azure Synapse Analytics の概要 - Training | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/introduction-azure-synapse-analytics/)
