@@ -101,3 +101,4 @@
 * [Structured Streaming Programming Guide - Spark 3.2.0 Documentation](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html#overview)
 * [Apache Spark バージョンのサポート - Azure Synapse Analytics | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/synapse-analytics/spark/apache-spark-version-support)
 * [Data Encryption at Rest, Transparent Data Encryption (TDE) and BitLocker - Business Central | Microsoft Docs](https://docs.microsoft.com/ja-jp/dynamics365/business-central/dev-itpro/security/transparent-data-encryption#performance-impact)
+* [Azure/azure-event-hubs-spark: Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs](https://github.com/Azure/azure-event-hubs-spark)
