@@ -22,3 +22,7 @@
 ## ラボ
 
 ■[ラボ環境](https://aka.ms/lab-env)
+
+■[ラボファイルのダウンロード](https://github.com/MicrosoftLearning/dp-420-cosmos-db-dev/archive/refs/heads/main.zip)
+
+■[ラボ手順書](https://sakkuru.github.io/dp-420-cosmos-db-dev.ja-JP/)
