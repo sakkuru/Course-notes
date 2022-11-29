@@ -1,6 +1,6 @@
 # Course DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB
 
-■[セットアップ手順]()
+■[セットアップ手順](https://publicfilestor.blob.core.windows.net/dp420/Opening.pdf)
 
 ■[公式テキスト](https://learn.microsoft.com/ja-jp/certifications/exams/dp-420)
 
