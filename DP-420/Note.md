@@ -1,7 +1,5 @@
 # Course DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB
 
-■[セットアップ手順]()
-
 ■[公式テキスト](https://learn.microsoft.com/ja-jp/certifications/exams/dp-420)
 
 * [M01: Azure Cosmos DB for NoSQL を使ってみる - Training | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/paths/get-started-azure-cosmos-db-sql-api/)
