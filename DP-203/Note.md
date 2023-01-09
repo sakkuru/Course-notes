@@ -1,6 +1,6 @@
 # DP-203 Data Engineering in Azure
 
-■[公式テキスト](https://learn.microsoft.com/ja-jp/training/courses/dp-203t00?wt.mc_id=esi_m2l_content_wwl)
+■[公式テキスト](https://learn.microsoft.com/ja-jp/training/courses/dp-203t00?wt.mc_id=esi_m2l_content_wwl#study-guide)
 
 * [M01: Azure Synapse Analytics の概要 - Training | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/introduction-azure-synapse-analytics/)
 * [M01: Azure Databricks を探索する - Training | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/explore-azure-databricks/)
