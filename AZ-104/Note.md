@@ -1,6 +1,6 @@
 # AZ-104 Microsoft Azure Administrator
 
-■[セットアップ手順](https://publicfilestor.blob.core.windows.net/az104/Opening.pd)
+■[セットアップ手順](https://publicfilestor.blob.core.windows.net/az104/Opening.pdf)
 
 ■[公式テキスト](https://learn.microsoft.com/ja-jp/training/courses/az-104t00)
 
