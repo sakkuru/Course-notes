@@ -14,3 +14,12 @@
 ■[ラボの手順書](https://sakkuru.github.io/AZ-104-MicrosoftAzureAdministrator.ja-jp/)
 
 ■[Azure Passの残額等の確認](https://www.microsoftazuresponsorships.com/)
+
+## その他リンク
+
+[効果のしくみを理解する - Azure Policy | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/governance/policy/concepts/effects)
+
+[Browse code samples | Microsoft Learn](https://learn.microsoft.com/en-us/samples/browse/?expanded=azure&products=azure-resource-manager)
+
+[Azure Resource Manager テンプレートの構文を JSON と Bicep で比較する - Azure Resource Manager | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/bicep/compare-template-syntax)
+
