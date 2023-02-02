@@ -29,3 +29,4 @@
 
 [コンテナー グループの YAML リファレンス - Azure Container Instances | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/container-instances/container-instances-reference-yaml)
 
+[Azure Monitor アラートの種類 - Azure Monitor | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/azure-monitor/alerts/alerts-types#monitor-multiple-resources)
