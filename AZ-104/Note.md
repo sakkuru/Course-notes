@@ -23,3 +23,9 @@
 
 [Azure Resource Manager テンプレートの構文を JSON と Bicep で比較する - Azure Resource Manager | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/azure-resource-manager/bicep/compare-template-syntax)
 
+[Azure Storage Blob の価格 | Microsoft Azure](https://azure.microsoft.com/ja-jp/pricing/details/storage/blobs/)
+
+[Announcing general availability of VNet Integration with Windows Web Apps - Azure App Service](https://azure.github.io/AppService/2020/02/27/General-Availability-of-VNet-Integration-with-Windows-Web-Apps.html)
+
+[コンテナー グループの YAML リファレンス - Azure Container Instances | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/container-instances/container-instances-reference-yaml)
+
