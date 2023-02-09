@@ -28,7 +28,7 @@
 
 ## ラボ
 
-■[セットアップ手順](https://publicfilestor.blob.core.windows.net/dp203/Opening.pdf)
+■[セットアップ手順]()
 
 ■[ラボ環境](https://aka.ms/lab-env)
 
