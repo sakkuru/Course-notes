@@ -19,11 +19,13 @@
 
 ## ラボ
 
-■[セットアップ手順](https://publicfilestor.blob.core.windows.net/az204/Opening.pdf)
+■[サブスクリプションのセットアップ手順](https://publicfilestor.blob.core.windows.net/az204/Opening.pdf)
 
 ■[ラボ環境](https://aka.ms/lab-env)
 
 ■[ラボファイルダウンロード](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/archive/refs/heads/master.zip)
+
+■[ラボ環境以外で実施する場合のインストールソフトウェア一覧](https://github.com/sakkuru/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/lab.md)
 
 ■[ラボ手順一覧](https://sakkuru.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/)
 
