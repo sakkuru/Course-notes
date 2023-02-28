@@ -22,6 +22,7 @@
 ■[サブスクリプションのセットアップ手順](https://publicfilestor.blob.core.windows.net/az204/Opening.pdf)
 
 ■[ラボ環境](https://aka.ms/lab-env)
+  * [.NET SDK 6.0+のインストール](https://dotnet.microsoft.com/ja-jp/download)
 
 ■[ラボファイルダウンロード](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/archive/refs/heads/master.zip)
 
