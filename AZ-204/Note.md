@@ -19,8 +19,6 @@
 
 ## ラボ
 
-■[サブスクリプションのセットアップ手順](https://publicfilestor.blob.core.windows.net/az204/Opening.pdf)
-
 ■[ラボ環境](https://aka.ms/lab-env)
   * [.NET SDK 6.0以上のインストール](https://dotnet.microsoft.com/ja-jp/download)
   * [Azure Functions Core Tools v4 64ビットのインストール](https://learn.microsoft.com/ja-jp/azure/azure-functions/functions-run-local?tabs=v4%2Cwindows%2Ccsharp%2Cportal%2Cbash#install-the-azure-functions-core-tools)
@@ -46,4 +44,6 @@
 * [Lab 12: Azure Content Delivery Network を使用した Web アプリケーションの強化](https://sakkuru.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/Instructions/Labs/AZ-204_lab_12.html)
 
 ■[Azure Passの残額・残日数確認](https://www.microsoftazuresponsorships.com/)
+
+■[サブスクリプションのセットアップ手順](https://publicfilestor.blob.core.windows.net/az204/Opening.pdf)
 
