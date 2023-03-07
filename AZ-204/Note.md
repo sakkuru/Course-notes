@@ -23,7 +23,8 @@
 
 ■[ラボ環境](https://aka.ms/lab-env)
   * [.NET SDK 6.0+のインストール](https://dotnet.microsoft.com/ja-jp/download)
-  * [Azure Functions Core Tools v4のインストール](https://learn.microsoft.com/ja-jp/azure/azure-functions/functions-run-local?tabs=v4%2Cwindows%2Ccsharp%2Cportal%2Cbash#install-the-azure-functions-core-tools)
+  * [Azure Functions Core Tools v4 64ビットのインストール](https://learn.microsoft.com/ja-jp/azure/azure-functions/functions-run-local?tabs=v4%2Cwindows%2Ccsharp%2Cportal%2Cbash#install-the-azure-functions-core-tools)
+    * インストール後、再度インストーラーを起動し、Repair(修復)を行って下さい。
 
 ■[ラボファイルダウンロード](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/archive/refs/heads/master.zip)
 
