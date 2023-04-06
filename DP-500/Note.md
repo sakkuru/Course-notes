@@ -1,3 +1,16 @@
+■[公式テキスト](https://learn.microsoft.com/ja-jp/training/courses/dp-500t00?wt.mc_id=esi_m2l_content_wwl#study-guide)
+
+* [01: Azure でのデータ分析の概要](https://learn.microsoft.com/ja-jp/training/paths/introduction-data-analytics-azure/)
+* [02: エンタープライズ全体でデータを管理する](https://learn.microsoft.com/ja-jp/training/paths/govern-data-across-enterprise/)
+* [03: Azure Synapse でデータをモデル化、クエリ、探索する](https://learn.microsoft.com/ja-jp/training/paths/model-query-explore-data-for-azure-synapse/)
+* [04: Power BI で表形式モデルのデータを準備する](https://learn.microsoft.com/ja-jp/training/paths/prepare-data-for-tabular-models-power-bi/)
+* [05: 表形式モデルを設計して構築する](https://learn.microsoft.com/ja-jp/training/paths/design-build-tabular-models/)
+* [06: Power BI を使用して高度なデータの可視化手法を実装する](https://learn.microsoft.com/ja-jp/training/paths/implement-advanced-data-visualization-techniques/)
+* [07: 分析環境を実装および管理する](https://learn.microsoft.com/ja-jp/training/paths/implement-manage-analytics-environment/)
+* [08: 分析の開発ライフサイクルを管理する](https://learn.microsoft.com/ja-jp/training/paths/manage-analytics-development-lifecycle/)
+
+## ラボ
+
 * [00: ローカル ラボ環境のセットアップ](https://github.com/MTT-ja/DP-500-Azure-Data-Analyst.ja-jp/blob/main/Instructions/labs/00-setup-environment.md)
 * [01: サーバーレス SQL プールを使用してファイルのクエリを実行する](https://github.com/MTT-ja/DP-500-Azure-Data-Analyst.ja-jp/blob/main/Instructions/labs/01-analyze-data-with-sql.md)
 * [02: Spark を使用してデータ レイク内のデータを分析する](https://github.com/MTT-ja/DP-500-Azure-Data-Analyst.ja-jp/blob/main/Instructions/labs/02-analyze-files-with-Spark.md)
