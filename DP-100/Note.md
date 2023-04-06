@@ -16,3 +16,23 @@
 * [M11: モデルをマネージド オンライン エンドポイントにデプロイする](https://learn.microsoft.com/ja-jp/training/modules/deploy-model-managed-online-endpoint/)
 * [M11: バッチ エンドポイントにモデルをデプロイする](https://learn.microsoft.com/ja-jp/training/modules/deploy-model-batch-endpoint/)
 * [M12: 機械学習の運用ソリューションを設計する](https://learn.microsoft.com/ja-jp/training/modules/design-machine-learning-operations-solution/)
+
+## ラボ
+
+* [02: Azure Machine Learning ワークスペースを詳しく見る](https://github.com/MTT-ja/mslearn-azure-ml.ja-jp/blob/main/Instructions/02-Explore-Azure-Machine-Learning.md)
+* [02: ワークスペース操作用の開発者ツールを探す](https://github.com/MTT-ja/mslearn-azure-ml.ja-jp/blob/main/Instructions/02-Explore-developer-tools.md)
+* [03: Azure Machine Learning でデータを使用できるようにする](https://github.com/MTT-ja/mslearn-azure-ml.ja-jp/blob/main/Instructions/03-Make-data-available.md)
+* [04: Azure Machine Learning でコンピューティング リソースを使用する](https://github.com/MTT-ja/mslearn-azure-ml.ja-jp/blob/main/Instructions/04-Work-with-compute.md)
+* [04: Azure Machine Learning の環境を処理する](https://github.com/MTT-ja/mslearn-azure-ml.ja-jp/blob/main/Instructions/04-Work-with-environments.md)
+* [05: Azure Machine Learning デザイナーを使用して、モデルをトレーニングする](https://github.com/MTT-ja/mslearn-azure-ml.ja-jp/blob/main/Instructions/05-Designer-train-model.md)
+* [06: 自動機械学習の最適な分類モデルを見つける](https://github.com/MTT-ja/mslearn-azure-ml.ja-jp/blob/main/Instructions/06-AutoML-classification-model.md)
+* [07: MLflow を使用してノートブックでモデル トレーニングを追跡する](https://github.com/MTT-ja/mslearn-azure-ml.ja-jp/blob/main/Instructions/07-Notebooks-mlflow-tracking.md)
+* [08: Azure Machine Learning でコマンド ジョブとしてトレーニング スクリプトを実行する](https://github.com/MTT-ja/mslearn-azure-ml.ja-jp/blob/main/Instructions/08-Script-command-job.md)
+* [08: MLflow を使用してトレーニング ジョブを追跡する](https://github.com/MTT-ja/mslearn-azure-ml.ja-jp/blob/main/Instructions/08-Script-mlflow-tracking.md)
+* [09: Azure Machine Learning でパイプラインを実行する](https://github.com/MTT-ja/mslearn-azure-ml.ja-jp/blob/main/Instructions/09-Run-pipelines.md)
+* [09: スイープ ジョブを使用してハイパーパラメーターのチューニングを実行する](https://github.com/MTT-ja/mslearn-azure-ml.ja-jp/blob/main/Instructions/09-Hyperparameter-tuning.md)
+* [10: MLflow を使用してモデルをログして登録する](https://github.com/MTT-ja/mslearn-azure-ml.ja-jp/blob/main/Instructions/10-Log-mlflow-models.md)
+* [10: モデルを比較して評価する](https://github.com/MTT-ja/mslearn-azure-ml.ja-jp/blob/main/Instructions/10-Compare-models.md)
+* [11: モデルをマネージド オンライン エンドポイントにデプロイする](https://github.com/MTT-ja/mslearn-azure-ml.ja-jp/blob/main/Instructions/11-Deploy-online-endpoint.md)
+* [11: バッチ エンドポイントにモデルをデプロイする](https://github.com/MTT-ja/mslearn-azure-ml.ja-jp/blob/main/Instructions/11-Deploy-batch-endpoint.md)
+
