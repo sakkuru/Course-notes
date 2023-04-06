@@ -1,4 +1,6 @@
-■[公式テキスト](https://learn.microsoft.com/ja-jp/training/courses/dp-500t00?wt.mc_id=esi_m2l_content_wwl#study-guide)
+■[公式テキスト](https://learn.microsoft.com/ja-jp/certifications/exams/dp-500)
+
+■[公式テキスト(モジュールごと)](https://learn.microsoft.com/ja-jp/training/courses/dp-500t00?wt.mc_id=esi_m2l_content_wwl#study-guide)
 
 * [01: Azure でのデータ分析の概要](https://learn.microsoft.com/ja-jp/training/paths/introduction-data-analytics-azure/)
 * [02: エンタープライズ全体でデータを管理する](https://learn.microsoft.com/ja-jp/training/paths/govern-data-across-enterprise/)
