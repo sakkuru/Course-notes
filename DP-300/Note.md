@@ -7,10 +7,10 @@
 
 ■[公式テキスト](https://learn.microsoft.com/ja-jp/certifications/exams/dp-300)
 
-M01: データベース管理者の役割
+[M01: Azure データベース管理の概要](https://learn.microsoft.com/ja-jp/training/paths/introduction-to-azure-database-administration/)
 * [Azure で SQL データベースのメンテナンスを準備する](https://learn.microsoft.com/ja-jp/training/modules/prepare-to-maintain-sql-databases-azure/)
 
-M02: データ プラットフォーム リソースの計画と実装
+[M02:データ プラットフォーム リソースの計画と実装](https://learn.microsoft.com/ja-jp/training/paths/plan-implement-data-platform-resources/)
 * [Azure SQL を使用して IaaS ソリューションをデプロイする](https://learn.microsoft.com/ja-jp/training/modules/deploy-iaas-solutions-with-azure-sql/)
 * [Azure SQL を使用して PaaS ソリューションをデプロイする](https://learn.microsoft.com/ja-jp/training/modules/deploy-paas-solutions-with-azure-sql/)
 * [Azure SQL に移行するための戦略を評価する](https://learn.microsoft.com/ja-jp/training/modules/evaluate-strategies-for-migrating-to-azure-sql/)
@@ -18,27 +18,27 @@ M02: データ プラットフォーム リソースの計画と実装
 * [SQL ワークロードを Azure Managed Instance に移行する](https://learn.microsoft.com/ja-jp/training/modules/migrate-sql-workloads-azure-managed-instances/)
 
 
-M03: 安全な環境を実装する
+[M03: データベース サービスにセキュリティで保護された環境を実装する](https://learn.microsoft.com/ja-jp/training/paths/implement-secure-environment-database-service/)
 * [データベースの認証と承認を構成する](https://learn.microsoft.com/ja-jp/training/modules/configure-database-authentication-authorization/)
 * [転送および保存中のデータを保護する](https://learn.microsoft.com/ja-jp/training/modules/protect-data-transit-rest/)
 * [機密データのコンプライアンス管理を実装する](https://learn.microsoft.com/ja-jp/training/modules/implement-compliance-controls-sensitive-data/)
 
-M04: 運用リソースの監視と最適化
+[M04: Azure SQL で運用リソースを監視および最適化する](https://learn.microsoft.com/ja-jp/training/paths/monitor-optimize-operational-resources-sql-server/)
 * [パフォーマンスの監視の説明](https://learn.microsoft.com/ja-jp/training/modules/describe-performance-monitoring/)
 * [SQL Server リソースを構成してパフォーマンスを最適化する](https://learn.microsoft.com/ja-jp/training/modules/configure-sql-server-resources-optimal-performance/)
 * [最適なパフォーマンスのためのデータベースを構成する](https://learn.microsoft.com/ja-jp/training/modules/configure-databases-for-optimal-performance/)
 
-M05: クエリのパフォーマンスの最適化
+[M05: Azure SQL でのクエリ パフォーマンスを最適化する](https://learn.microsoft.com/ja-jp/training/paths/optimize-query-performance-sql-server/)
 * [クエリ パフォーマンスの最適化を調べる](https://learn.microsoft.com/ja-jp/training/modules/explore-query-performance-optimization/)
 * [パフォーマンスベースの設計を詳しく学ぶ](https://learn.microsoft.com/ja-jp/training/modules/explore-performance-based-design/)
 * [パフォーマンスの向上を評価する](https://learn.microsoft.com/ja-jp/training/modules/evaluate-performance-improvements/)
 
-M06: タスクを自動化
+[M06: Azure SQL のデータベース タスクを自動化する](https://learn.microsoft.com/ja-jp/training/paths/automate-tasks-sql-server/)
 * [データベース リソースのデプロイを自動化する](https://learn.microsoft.com/ja-jp/training/modules/configure-automatic-deployment-azure-sql-database/)
 * [SQL Agent ジョブを作成して管理する](https://learn.microsoft.com/ja-jp/training/modules/schedule-tasks-using-sql-server-agent/)
 * [自動化を使用して Azure PaaS タスクを管理する](https://learn.microsoft.com/ja-jp/training/modules/manage-azure-paas-resources-using-automated-methods/)
 
-M07: 高可用性とディザスター リカバリーの計画と実装
+[M07: 高可用性とディザスター リカバリーの環境を計画して実装する](https://learn.microsoft.com/ja-jp/training/paths/plan-implement-high-availability-disaster-recovery-environment/)
 * [高可用性とディザスター リカバリーの戦略について説明する](https://learn.microsoft.com/ja-jp/training/modules/describe-high-availability-disaster-recovery-strategies/)
 * [高可用性とディザスター リカバリーのための IaaS と PaaS のソリューションについて説明します。](https://learn.microsoft.com/ja-jp/training/modules/explore-iaas-paas-platform-tools-for-high-availability-disaster-recovery/)
 * [データベースのバックアップと復元](https://learn.microsoft.com/ja-jp/training/modules/backup-restore-databases/)
