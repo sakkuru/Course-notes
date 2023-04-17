@@ -1,11 +1,8 @@
 # DP-300 Microsoft Azure でのリレーショナル データベースの管理
 
-
-■[セットアップ手順](https://publicfilestor.blob.core.windows.net/dp300/Opening.pdf)
-
 ■[公式テキスト(モジュールごと)](https://learn.microsoft.com/ja-jp/training/courses/dp-300t00)
 
-■[公式テキスト](https://learn.microsoft.com/ja-jp/certifications/exams/dp-300)
+■[公式テキスト(ラーニングパスごと)](https://learn.microsoft.com/ja-jp/certifications/exams/dp-300)
 
 [M01: Azure データベース管理の概要](https://learn.microsoft.com/ja-jp/training/paths/introduction-to-azure-database-administration/)
 * [Azure で SQL データベースのメンテナンスを準備する](https://learn.microsoft.com/ja-jp/training/modules/prepare-to-maintain-sql-databases-azure/)
@@ -44,6 +41,8 @@
 * [データベースのバックアップと復元](https://learn.microsoft.com/ja-jp/training/modules/backup-restore-databases/)
 
 ## ラボ
+
+■[ラボ実施手順](https://publicfilestor.blob.core.windows.net/dp300/Lab.pdf)
 
 * [00: ローカル ラボ環境のセットアップ](https://github.com/MTT-ja/dp-300-database-administrator.ja-jp/blob/main/Instructions/Labs/00-setup-environment.md)
 * [01: Azure 仮想マシンで SQL Server をプロビジョニングする](https://github.com/MTT-ja/dp-300-database-administrator.ja-jp/blob/main/Instructions/Labs/01-provision-sql-vm.md)
