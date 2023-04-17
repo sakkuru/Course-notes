@@ -61,3 +61,10 @@
 * [13: Automation Runbook をデプロイして、インデックスを自動的に再構築する](https://github.com/MTT-ja/dp-300-database-administrator.ja-jp/blob/main/Instructions/Labs/13-deploy-automation-runbook-rebuild-indexes.md)
 * [14: Azure SQL Database 用に geo レプリケーションを構成する](https://github.com/MTT-ja/dp-300-database-administrator.ja-jp/blob/main/Instructions/Labs/14-configure-geo-replication-for-azure-sql-database.md)
 * [15: Backup to URL](https://github.com/MTT-ja/dp-300-database-administrator.ja-jp/blob/main/Instructions/Labs/15-backup-url.md.md)
+
+## その他リンク
+[Azure VM 上の SQL Server についてよく寄せられる質問 (FAQ)](https://learn.microsoft.com/ja-jp/azure/azure-sql/virtual-machines/windows/frequently-asked-questions-faq?view=azuresql)
+
+[Azure SQL Database とは](https://learn.microsoft.com/ja-jp/azure/azure-sql/virtual-machines/windows/frequently-asked-questions-faq?view=azuresql)
+
+[Azure SQL Managed Instance とは](https://learn.microsoft.com/ja-jp/azure/azure-sql/managed-instance/sql-managed-instance-paas-overview?view=azuresql)
