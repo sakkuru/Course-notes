@@ -42,6 +42,8 @@
 
 ## ラボ
 
+■[ラボ環境](https://aka.ms/lab-env)
+
 ■[ラボ実施手順](https://publicfilestor.blob.core.windows.net/dp300/Lab.pdf)
 
 * [00: ローカル ラボ環境のセットアップ](https://github.com/MTT-ja/dp-300-database-administrator.ja-jp/blob/main/Instructions/Labs/00-setup-environment.md)
