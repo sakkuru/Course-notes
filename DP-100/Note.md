@@ -12,7 +12,7 @@
 * [M08: ジョブで MLflow を使用してモデル トレーニングを追跡する](https://learn.microsoft.com/ja-jp/training/modules/train-models-training-mlflow-jobs/)
 * [M09: Azure Machine Learning でパイプラインを実行する](https://learn.microsoft.com/ja-jp/training/modules/run-pipelines-azure-machine-learning/)
 * [M09: Azure Machine Learning を使用してハイパーパラメーターのチューニングを実行する](https://learn.microsoft.com/ja-jp/training/modules/perform-hyperparameter-tuning-azure-machine-learning-pipelines/)
-* [M10: ジョブで MLflow を使用してモデル トレーニングを追跡する](https://learn.microsoft.com/ja-jp/training/modules/train-models-training-mlflow-jobs/)
+* [M10: Azure Machine Learning で MLflow モデルを登録する](https://learn.microsoft.com/ja-jp/training/modules/register-mlflow-model-azure-machine-learning/)
 * [M11: モデルをマネージド オンライン エンドポイントにデプロイする](https://learn.microsoft.com/ja-jp/training/modules/deploy-model-managed-online-endpoint/)
 * [M11: バッチ エンドポイントにモデルをデプロイする](https://learn.microsoft.com/ja-jp/training/modules/deploy-model-batch-endpoint/)
 * [M12: 機械学習の運用ソリューションを設計する](https://learn.microsoft.com/ja-jp/training/modules/design-machine-learning-operations-solution/)
