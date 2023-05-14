@@ -1,6 +1,6 @@
 # DP-100: Azure でのデータ サイエンス
 
-■[オープニング資料]()
+■[オープニング資料](https://publicfilestor.blob.core.windows.net/dp100/Opening.pdf)
 
 ■[公式テキスト](https://learn.microsoft.com/ja-jp/training/courses/dp-100t01?wt.mc_id=esi_m2l_content_wwl#study-guide)
 
