@@ -1,3 +1,9 @@
+# DP-100: Azure でのデータ サイエンス
+
+■[オープニング資料]()
+
+■[公式テキスト](https://learn.microsoft.com/ja-jp/training/courses/dp-100t01?wt.mc_id=esi_m2l_content_wwl#study-guide)
+
 * [M01: 機械学習プロジェクトのためのデータ インジェスト戦略を設計する](https://learn.microsoft.com/ja-jp/training/modules/design-data-ingestion-strategy-for-machine-learning-projects/)
 * [M01: 機械学習モデルのトレーニング ソリューションを設計する](https://learn.microsoft.com/ja-jp/training/modules/design-machine-learning-model-training-solution/)
 * [M01: モデル デプロイ ソリューションを設計する](https://learn.microsoft.com/ja-jp/training/modules/design-model-deployment-solution/)
@@ -18,6 +24,10 @@
 * [M12: 機械学習の運用ソリューションを設計する](https://learn.microsoft.com/ja-jp/training/modules/design-machine-learning-operations-solution/)
 
 ## ラボ
+
+■[ラボ環境](https://esi.learnondemand.net/)
+
+■[ラボファイル一式](https://github.com/MicrosoftLearning/mslearn-azure-ml)
 
 * [02: Azure Machine Learning ワークスペースを詳しく見る](https://github.com/MTT-ja/mslearn-azure-ml.ja-jp/blob/main/Instructions/02-Explore-Azure-Machine-Learning.md)
 * [02: ワークスペース操作用の開発者ツールを探す](https://github.com/MTT-ja/mslearn-azure-ml.ja-jp/blob/main/Instructions/02-Explore-developer-tools.md)
