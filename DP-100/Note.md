@@ -46,3 +46,9 @@
 * [11: モデルをマネージド オンライン エンドポイントにデプロイする](https://github.com/MTT-ja/mslearn-azure-ml.ja-jp/blob/main/Instructions/11-Deploy-online-endpoint.md)
 * [11: バッチ エンドポイントにモデルをデプロイする](https://github.com/MTT-ja/mslearn-azure-ml.ja-jp/blob/main/Instructions/11-Deploy-batch-endpoint.md)
 
+## その他リンク
+
+* [機械学習アルゴリズムの選択方法 - Azure Machine Learning | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/machine-learning/how-to-select-algorithms?view=azureml-api-2)
+* [責任ある AI とは? - Azure Machine Learning | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/machine-learning/concept-responsible-ai?view=azureml-api-2)
+* [Azure Machine Learning の責任ある AI ダッシュボードを使用して AI システムを評価し、データ ドリブンの意思決定を行う - Azure Machine Learning | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/machine-learning/concept-responsible-ai-dashboard?view=azureml-api-2)
+* [コンピューティング クラスターを作成する - Azure Machine Learning | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/machine-learning/how-to-create-attach-compute-cluster?view=azureml-api-2)
