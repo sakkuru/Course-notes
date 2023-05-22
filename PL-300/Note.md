@@ -13,11 +13,11 @@
 * [M06: Power BI でのパフォーマンスに対するモデルの最適化  - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/optimize-model-power-bi/)
 * [M07: Power BI の視覚化を操作する - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/visuals-power-bi/)
 * [M07: Power BI レポートを使用してデータに基づくストーリーを作成する - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/data-driven-story-power-bi/)
-* [M08: Power BI 内でダッシュボードを作成する - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/create-dashboards-power-bi/)
-* [M09: Power BI で高度な分析を実行する  - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/perform-analytics-power-bi/)
-* [M09: Power BI での AI 視覚エフェクトの操作 - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/ai-visuals-power-bi/)
-* [M10: Power BI でワークスペースを作成および管理する  - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/create-manage-workspaces-power-bi/)
-* [M11: Power BI でのデータセットの管理  - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/manage-datasets-power-bi/)
+* [M08: Power BI で高度な分析を実行する  - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/perform-analytics-power-bi/)
+* [M08: Power BI での AI 視覚エフェクトの操作 - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/ai-visuals-power-bi/)
+* [M09: Power BI でワークスペースを作成および管理する  - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/create-manage-workspaces-power-bi/)
+* [M10: Power BI でのデータセットの管理  - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/manage-datasets-power-bi/)
+* [M11: Power BI 内でダッシュボードを作成する - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/create-dashboards-power-bi/)
 * [M12: 行レベルのセキュリティを実装する - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/row-level-security-power-bi/)
 
 ## ラボ
