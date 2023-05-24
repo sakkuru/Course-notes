@@ -1,7 +1,5 @@
 # PL-300 Microsoft Power BI Data Analyst
 
-■[セットアップ手順]()
-
 ■[公式テキスト](https://docs.microsoft.com/ja-jp/learn/certifications/courses/pl-300t00)
 
 * [M01: データ分析を理解する - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/data-analytics-microsoft/)
