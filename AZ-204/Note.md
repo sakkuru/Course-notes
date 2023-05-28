@@ -27,21 +27,20 @@
 
 ■[ラボ環境以外で実施する場合のインストールソフトウェア一覧](https://github.com/sakkuru/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/lab.md)
 
-■[ラボ手順一覧](https://sakkuru.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/)
+■[ラボ手順一覧](https://github.com/MTT-ja/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/tree/main/Instructions/Labs)
 
-* [Lab 01: Azure Platform as a Service オファリングで Web アプリケーションを構築する](https://sakkuru.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/Instructions/Labs/AZ-204_lab_01.html)
-* [Lab 02: Azure Functions を使用してタスク処理ロジックを実装する](https://sakkuru.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/Instructions/Labs/AZ-204_lab_02.html)
-* [Lab 03: Azure Storage SDK for .NET を使用して Azure Storage リソースとメタデータを取得する](https://sakkuru.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/Instructions/Labs/AZ-204_lab_03.html)
-* [Lab 04: ポリグロットなデータ ソリューションを構築する](https://sakkuru.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/Instructions/Labs/AZ-204_lab_04.html)
-* [Lab 05: イメージとコンテナーを使用してコンピューティング ワークロードをデプロイする](https://sakkuru.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/Instructions/Labs/AZ-204_lab_05.html)
-* [Lab 06: OpenID Connect、MSAL、および .NET SDK を使用した認証](https://sakkuru.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/Instructions/Labs/AZ-204_lab_06.html)
-* [Lab 07: サービス間でリソース シークレットにより安全にアクセスする](https://sakkuru.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/Instructions/Labs/AZ-204_lab_07.html)
-* [Lab 08: Azure サービスを使用して多層ソリューションを作成する](https://sakkuru.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/Instructions/Labs/AZ-204_lab_08.html)
-* [Lab 09: Event Grid イベントの発行とサブスクライブ](https://sakkuru.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/Instructions/Labs/AZ-204_lab_09.html)
-* [Lab 10: Azure Service Bus キューを利用してメッセージを非同期に処理する](https://sakkuru.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/Instructions/Labs/AZ-204_lab_10.html)
-* [Lab 11: Azure にデプロイされたサービスを監視する](https://sakkuru.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/Instructions/Labs/AZ-204_lab_11.html)
-* [Lab 12: Azure Content Delivery Network を使用した Web アプリケーションの強化](https://sakkuru.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/Instructions/Labs/AZ-204_lab_12.html)
+* [Lab 01: Azure Platform as a Service オファリングで Web アプリケーションを構築する](https://github.com/sakkuru/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/Instructions/Labs/AZ-204_lab_01.md)
+* [Lab 02: Azure Functions を使用してタスク処理ロジックを実装する](https://github.com/MTT-ja/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/Instructions/Labs/AZ-204_lab_02.md)
+* [Lab 03: Azure Storage SDK for .NET を使用して Azure Storage リソースとメタデータを取得する](https://github.com/MTT-ja/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/Instructions/Labs/AZ-204_lab_03.md)
+* [Lab 04: ポリグロットなデータ ソリューションを構築する](https://github.com/MTT-ja/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/Instructions/Labs/AZ-204_lab_04.md)
+* [Lab 05: イメージとコンテナーを使用してコンピューティング ワークロードをデプロイする](https://github.com/MTT-ja/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/Instructions/Labs/AZ-204_lab_05.md)
+* [Lab 06: OpenID Connect、MSAL、および .NET SDK を使用した認証](https://github.com/MTT-ja/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/Instructions/Labs/AZ-204_lab_06.md)
+* [Lab 07: サービス間でリソース シークレットにより安全にアクセスする](https://github.com/MTT-ja/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/Instructions/Labs/AZ-204_lab_07.md)
+* [Lab 08: Azure サービスを使用して多層ソリューションを作成する](https://github.com/MTT-ja/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/Instructions/Labs/AZ-204_lab_08.md)
+* [Lab 09: Event Grid イベントの発行とサブスクライブ](https://github.com/MTT-ja/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/Instructions/Labs/AZ-204_lab_09.md)
+* [Lab 10: Azure Service Bus キューを利用してメッセージを非同期に処理する](https://github.com/MTT-ja/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/Instructions/Labs/AZ-204_lab_10.md)
+* [Lab 11: Azure にデプロイされたサービスを監視する](https://github.com/MTT-ja/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/Instructions/Labs/AZ-204_lab_11.md)
+* [Lab 12: Azure Content Delivery Network を使用した Web アプリケーションの強化](https://github.com/MTT-ja/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/Instructions/Labs/AZ-204_lab_12.md)
 
-■[Azure Passの残額・残日数確認](https://www.microsoftazuresponsorships.com/)
 
 
