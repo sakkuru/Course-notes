@@ -1,28 +1,27 @@
 # AZ-204: Developing solutions for Microsoft Azure
 
-■[公式テキスト(モジュール一覧)](https://learn.microsoft.com/ja-jp/training/courses/az-204t00?wt.mc_id=esi_m2l_content_wwl)
+■[オープニング資料](https://publicfilestor.blob.core.windows.net/az204/Opening.pdf)
+
+■[公式テキスト(モジュール一覧)](https://learn.microsoft.com/ja-jp/training/courses/az-204t00?wt.mc_id=esi_m2l_content_wwl#study-guide)
 
 ■[公式テキスト(ラーニングパス毎)](https://learn.microsoft.com/ja-jp/certifications/exams/az-204)
 
-* [Learning Path 01: Azure App Service Web アプリを作成する](https://learn.microsoft.com/ja-jp/training/paths/create-azure-app-service-web-apps/)
+* [Learning Path 01: Azure App Service Web Apps を実装する](https://learn.microsoft.com/ja-jp/training/paths/create-azure-app-service-web-apps/)
 * [Learning Path 02: Azure Functions を実装する](https://learn.microsoft.com/ja-jp/training/paths/implement-azure-functions/)
 * [Learning Path 03: BLOB ストレージを使用するソリューションを開発する](https://learn.microsoft.com/ja-jp/training/paths/develop-solutions-that-use-blob-storage/)
 * [Learning Path 04: Azure Cosmos DB を使用するソリューションを開発する](https://learn.microsoft.com/ja-jp/training/paths/az-204-develop-solutions-that-use-azure-cosmos-db/)
-* [Learning Path 05: サービスとしてのインフラストラクチャ ソリューションを実装する](https://learn.microsoft.com/ja-jp/training/paths/az-204-implement-iaas-solutions/)
+* [Learning Path 05: コンテナー化されたソリューションを実装する](https://learn.microsoft.com/ja-jp/training/paths/az-204-implement-iaas-solutions/)
 * [Learning Path 06: ユーザー認証と承認を実装する](https://learn.microsoft.com/ja-jp/training/paths/az-204-implement-authentication-authorization/)
-* [Learning Path 07: セキュリティで保護されたクラウド ソリューションを実装する](https://learn.microsoft.com/ja-jp/training/paths/az-204-implement-secure-cloud-solutions/)
+* [Learning Path 07: セキュリティで保護された Azure ソリューションを実装する](https://learn.microsoft.com/ja-jp/training/paths/az-204-implement-secure-cloud-solutions/)
 * [Learning Path 08: API Management の実装](https://learn.microsoft.com/ja-jp/training/paths/az-204-implement-api-management/)
 * [Learning Path 09: イベントベースのソリューションの開発](https://learn.microsoft.com/ja-jp/training/paths/az-204-develop-event-based-solutions/)
 * [Learning Path 10: メッセージ ベースのソリューションを開発する](https://learn.microsoft.com/ja-jp/training/paths/az-204-develop-message-based-solutions/)
-* [Learning Path 11: 監視とログ記録をサポートするソリューションをインストルメントする](https://learn.microsoft.com/ja-jp/training/paths/az-204-instrument-solutions-support-monitoring-logging/)
-* [Learning Path 12: キャッシュとコンテンツ配信をソリューション内に統合する](https://learn.microsoft.com/ja-jp/training/paths/az-204-integrate-caching-content-delivery-within-solutions/)
+* [Learning Path 11: Application Insights を使用したソリューションのトラブルシューティング](https://learn.microsoft.com/ja-jp/training/paths/az-204-instrument-solutions-support-monitoring-logging/)
+* [Learning Path 12: ソリューションのキャッシュを実装する](https://learn.microsoft.com/ja-jp/training/paths/az-204-integrate-caching-content-delivery-within-solutions/)
 
 ## ラボ
 
 ■[ラボ環境](https://aka.ms/lab-env)
-  * [.NET SDK 6.0以上のインストール](https://dotnet.microsoft.com/ja-jp/download)
-  * [Azure Functions Core Tools v4 64ビットのインストール](https://learn.microsoft.com/ja-jp/azure/azure-functions/functions-run-local?tabs=v4%2Cwindows%2Ccsharp%2Cportal%2Cbash#install-the-azure-functions-core-tools)
-    * インストール後、再度インストーラーを起動し、Repair(修復)を行って下さい。
 
 ■[ラボファイルダウンロード](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/archive/refs/heads/master.zip)
 
@@ -45,5 +44,4 @@
 
 ■[Azure Passの残額・残日数確認](https://www.microsoftazuresponsorships.com/)
 
-■[サブスクリプションのセットアップ手順](https://publicfilestor.blob.core.windows.net/az204/Opening.pdf)
 
