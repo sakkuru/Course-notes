@@ -25,11 +25,11 @@
 
 ■[ラボファイルダウンロード](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/archive/refs/heads/master.zip)
 
-■[ラボ環境以外で実施する場合の必要ソフトウェア一覧](https://github.com/sakkuru/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/lab.md)
+■[ラボ環境以外で実施する場合の必要ソフトウェア一覧](https://github.com/MTT-ja/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/lab.md)
 
 ■[ラボ手順一覧](https://github.com/MTT-ja/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/tree/main/Instructions/Labs)
 
-* [Lab 01: Azure Platform as a Service オファリングで Web アプリケーションを構築する](https://github.com/sakkuru/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/Instructions/Labs/AZ-204_lab_01.md)
+* [Lab 01: Azure Platform as a Service オファリングで Web アプリケーションを構築する](https://github.com/MTT-ja/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/Instructions/Labs/AZ-204_lab_01.md)
 * [Lab 02: Azure Functions を使用してタスク処理ロジックを実装する](https://github.com/MTT-ja/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/Instructions/Labs/AZ-204_lab_02.md)
 * [Lab 03: Azure Storage SDK for .NET を使用して Azure Storage リソースとメタデータを取得する](https://github.com/MTT-ja/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/Instructions/Labs/AZ-204_lab_03.md)
 * [Lab 04: ポリグロットなデータ ソリューションを構築する](https://github.com/MTT-ja/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/Instructions/Labs/AZ-204_lab_04.md)
@@ -41,6 +41,7 @@
 * [Lab 10: Azure Service Bus キューを利用してメッセージを非同期に処理する](https://github.com/MTT-ja/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/Instructions/Labs/AZ-204_lab_10.md)
 * [Lab 11: Azure にデプロイされたサービスを監視する](https://github.com/MTT-ja/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/Instructions/Labs/AZ-204_lab_11.md)
 * [Lab 12: Azure Content Delivery Network を使用した Web アプリケーションの強化](https://github.com/MTT-ja/AZ-204-DevelopingSolutionsforMicrosoftAzure.ja-jp/blob/main/Instructions/Labs/AZ-204_lab_12.md)
+
 
 
 
