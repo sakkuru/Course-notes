@@ -20,6 +20,8 @@
 
 ## ラボ
 
+■[アクセス手順](https://publicfilestor.blob.core.windows.net/pl300/Opening.pdf)
+
 ■[ラボ環境](https://aka.ms/lab-env)
 
 ■[ラボファイルのダウンロード](https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp/archive/refs/heads/main.zip)
