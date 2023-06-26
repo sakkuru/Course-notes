@@ -13,6 +13,10 @@
 
 ## ラボ
 
+■[アクセス手順](https://publicfilestor.blob.core.windows.net/dp500/opening.pdf)
+
+■[ラボ環境](https://aka.ms/lab-env)
+
 * [00: ローカル ラボ環境のセットアップ](https://github.com/MTT-ja/DP-500-Azure-Data-Analyst.ja-jp/blob/main/Instructions/labs/00-setup-environment.md)
 * [01: サーバーレス SQL プールを使用してファイルのクエリを実行する](https://github.com/MTT-ja/DP-500-Azure-Data-Analyst.ja-jp/blob/main/Instructions/labs/01-analyze-data-with-sql.md)
 * [02: Spark を使用してデータ レイク内のデータを分析する](https://github.com/MTT-ja/DP-500-Azure-Data-Analyst.ja-jp/blob/main/Instructions/labs/02-analyze-files-with-Spark.md)
