@@ -1,3 +1,5 @@
+# DP-500: Microsoft Azure と Microsoft Power BI を使用したエンタープライズ規模の分析ソリューションの設計および実装
+
 ■[公式テキスト](https://learn.microsoft.com/ja-jp/certifications/exams/dp-500)
 
 ■[公式テキスト(モジュールごと)](https://learn.microsoft.com/ja-jp/training/courses/dp-500t00?wt.mc_id=esi_m2l_content_wwl#study-guide)
