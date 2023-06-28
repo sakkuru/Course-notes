@@ -17,6 +17,8 @@
 
 ■[アクセス手順](https://publicfilestor.blob.core.windows.net/dp500/opening.pdf)
 
+■[ラボで使用しているファイル](https://github.com/MTT-ja/DP-500-Azure-Data-Analyst.ja-jp/tree/main)
+
 ■[ラボ環境](https://aka.ms/lab-env)
 
 * [00: ローカル ラボ環境のセットアップ](https://github.com/MTT-ja/DP-500-Azure-Data-Analyst.ja-jp/blob/main/Instructions/labs/00-setup-environment.md)
