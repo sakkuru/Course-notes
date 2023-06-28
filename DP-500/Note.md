@@ -17,7 +17,7 @@
 
 ■[アクセス手順](https://publicfilestor.blob.core.windows.net/dp500/opening.pdf)
 
-■[ラボで使用しているファイル](https://github.com/MTT-ja/DP-500-Azure-Data-Analyst.ja-jp/tree/main)
+■[ラボで使用しているファイル](https://github.com/MicrosoftLearning/DP-500-Azure-Data-Analyst)
 
 ■[ラボ環境](https://aka.ms/lab-env)
 
