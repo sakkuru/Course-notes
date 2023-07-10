@@ -2,6 +2,31 @@
 
 ■[公式テキスト](https://learn.microsoft.com/ja-jp/training/courses/ai-102t00?wt.mc_id=esi_m2l_content_wwl#study-guide)
 
+* [01: Azure 上で AI ソリューションの開発を準備する](https://learn.microsoft.com/ja-jp/training/modules/prepare-to-develop-ai-solutions-azure/)
+* [02: コグニティブ サービスの作成と使用](https://learn.microsoft.com/ja-jp/training/modules/create-manage-cognitive-services/)
+* [02: Cognitive Services を保護する](https://learn.microsoft.com/ja-jp/training/modules/secure-cognitive-services/)
+* [02: Cognitive Services を監視する](https://learn.microsoft.com/ja-jp/training/modules/monitor-cognitive-services/)
+* [02: コンテナーに Cognitive Services をデプロイする](https://learn.microsoft.com/ja-jp/training/modules/investigate-container-for-use-cognitive-services/)
+* [03: 言語サービスを使用してテキストから分析情報を抽出する](https://learn.microsoft.com/ja-jp/training/modules/extract-insights-text-with-text-analytics-service/)
+* [03: Translator サービスを使用してテキストを翻訳する](https://learn.microsoft.com/ja-jp/training/modules/translate-text-with-translator-service/)
+* [04: 音声サービスを使用して音声対応アプリを作成する](https://learn.microsoft.com/ja-jp/training/modules/transcribe-speech-input-text/)
+* [04: 音声を音声サービスで翻訳する](https://learn.microsoft.com/ja-jp/training/modules/translate-speech-speech-service/)
+* [05: Language Understanding モデルを構築する](https://learn.microsoft.com/ja-jp/training/modules/build-language-understanding-model/)
+* [05: Language Understanding アプリを発行して使用する](https://learn.microsoft.com/ja-jp/training/modules/publish-use-language-understand-app/)
+* [06: 質問応答ソリューションを構築する](https://learn.microsoft.com/ja-jp/training/modules/build-qna-solution-qna-maker/)
+* [07: Bot Framework SDK を使用してボットを作成する](https://learn.microsoft.com/ja-jp/training/modules/design-bot-conversation-flow/)
+* [07: Bot Framework Composer を使用してボットを作成する](https://learn.microsoft.com/ja-jp/training/modules/create-bot-with-bot-framework-composer/)
+* [08: 画像を分析する](https://learn.microsoft.com/ja-jp/training/modules/analyze-images/)
+* [08: 動画を分析する](https://learn.microsoft.com/ja-jp/training/modules/analyze-video/)
+* [09: 画像を分類する](https://learn.microsoft.com/ja-jp/training/modules/classify-images/)
+* [09: 画像内のオブジェクトを検出する](https://learn.microsoft.com/ja-jp/training/modules/detect-objects-images/)
+* [10: 顔を検出、分析、認識する](https://learn.microsoft.com/ja-jp/training/modules/detect-analyze-recognize-faces/)
+* [11: Computer Vision サービスを使用して画像やドキュメント内のテキストを読み取る](https://learn.microsoft.com/ja-jp/training/modules/read-text-images-documents-with-computer-vision-service/)
+* [11: Form Recognizer を使用してフォームからデータを抽出する](https://learn.microsoft.com/ja-jp/training/modules/work-form-recognizer/)
+* [12: Azure Cognitive Search ソリューションを作成する](https://learn.microsoft.com/ja-jp/training/modules/create-azure-cognitive-search-solution/)
+* [12: Azure Cognitive Search のカスタム スキルを作成する](https://learn.microsoft.com/ja-jp/training/modules/create-enrichment-pipeline-azure-cognitive-search/)
+* [12: Azure Cognitive Search を使用してナレッジ ストアを作成する](https://learn.microsoft.com/ja-jp/training/modules/create-knowledge-store-azure-cognitive-search/)
+
 ## ラボ
 
 ■[アクセス手順](https://publicfilestor.blob.core.windows.net/ai102/Opening.pdf)
