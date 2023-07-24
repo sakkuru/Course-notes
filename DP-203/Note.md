@@ -58,8 +58,6 @@
 * [Lab: Azure Databricks で SQL ウェアハウスを使用する](https://github.com/MTT-ja/dp-203-azure-data-engineer.ja-jp/blob/main/Instructions/Labs/26-Azure-Databricks-SQL.md)
 * [Lab: Azure Data Factory を使用して Azure Databricks ノートブックを自動化する](https://github.com/MTT-ja/dp-203-azure-data-engineer.ja-jp/blob/main/Instructions/Labs/27-Azure-Databricks-Data-Factory.md)
 
-■[Azure Passの残額・残日数確認](https://www.microsoftazuresponsorships.com/)
-
 ## その他リンク
 
 * [クイックスタート: - Azure Synapse Analytics | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/synapse-analytics/quickstart-create-apache-spark-pool-studio)
