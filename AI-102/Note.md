@@ -62,3 +62,19 @@
 * [23: Azure Cognitive Search 用カスタム スキルの作成](https://github.com/MTT-ja/AI-102-AIEngineer.ja-jp/blob/main/Instructions/23-search-skills.md)
 * [24: Azure Cognitive Search 用ナレッジ ストアの作成](https://github.com/MTT-ja/AI-102-AIEngineer.ja-jp/blob/main/Instructions/24-knowledge-store.md)
 
+## その他リンク
+* [Custom Translator](https://portal.customtranslator.azure.ai/)
+* [Language Studio](https://language.cognitive.azure.com/)
+* [Speech Studio](https://speech.microsoft.com/)
+---
+* [Azure OpenAI Service とは - Azure AI services | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/overview)
+* [料金計算ツール | Microsoft Azure](https://azure.microsoft.com/ja-jp/pricing/calculator/)
+* [価格 - AI Services オールインワン | Microsoft Azure](https://azure.microsoft.com/ja-jp/pricing/details/cognitive-services/)
+* [Azure AI サービス コンテナーをオンプレミスで使用する - Azure AI services | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/cognitive-services-container-support)
+* [azure-ai-textanalytics · PyPI](https://pypi.org/project/azure-ai-textanalytics/)
+* [Azure サービスを使用して .NET アプリケーションを認証する方法 | Microsoft Learn](https://learn.microsoft.com/ja-jp/dotnet/azure/sdk/authentication?tabs=command-line)
+* [言語機能の言語サポート - Azure AI services | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/language-service/concepts/language-support)
+* [言語サポート - 音声サービス - Azure AI services | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/speech-service/language-support?tabs=stt)
+* [Speech Studio - 音声ギャラリー](https://speech.microsoft.com/portal/voicegallery)
+* [Conversational Language Understanding の制限 - Azure AI services | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/language-service/conversational-language-understanding/service-limits#regional-availability)
+* [サポートされている事前構築済みエンティティ コンポーネント - Azure AI services | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/language-service/conversational-language-understanding/prebuilt-component-reference)
