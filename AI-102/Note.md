@@ -35,6 +35,8 @@
 
 ■[ラボファイルのダウンロード](https://github.com/MicrosoftLearning/AI-102-AIEngineer/archive/refs/heads/master.zip)
 
+■[ラボファイルのダウンロード(GitHubに繋がらない場合)](https://publicfilestor.blob.core.windows.net/ai102/AI-102-AIEngineer-master_0803.zip)
+
 * [00: ラボ環境のセットアップ](https://github.com/MTT-ja/AI-102-AIEngineer.ja-jp/blob/main/Instructions/00-setup.md)
 * [00: リソース プロバイダーを有効にする](https://github.com/MTT-ja/AI-102-AIEngineer.ja-jp/blob/main/Instructions/00-update-resource-providers.md)
 * [01: Cognitive Services の概要](https://github.com/MTT-ja/AI-102-AIEngineer.ja-jp/blob/main/Instructions/01-get-started-cognitive-services.md)
