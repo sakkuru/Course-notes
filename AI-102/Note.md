@@ -68,6 +68,9 @@
 * [Custom Translator](https://portal.customtranslator.azure.ai/)
 * [Language Studio](https://language.cognitive.azure.com/)
 * [Speech Studio](https://speech.microsoft.com/)
+* [Azure AI Video Indexer Portal](https://www.videoindexer.ai/)
+* [Custom Vision](https://www.customvision.ai/)
+* [Form Recognizer Studio](https://formrecognizer.appliedai.azure.com/)
 ---
 * [Azure OpenAI Service とは - Azure AI services | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/overview)
 * [料金計算ツール | Microsoft Azure](https://azure.microsoft.com/ja-jp/pricing/calculator/)
@@ -80,3 +83,6 @@
 * [Speech Studio - 音声ギャラリー](https://speech.microsoft.com/portal/voicegallery)
 * [Conversational Language Understanding の制限 - Azure AI services | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/language-service/conversational-language-understanding/service-limits#regional-availability)
 * [サポートされている事前構築済みエンティティ コンポーネント - Azure AI services | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/language-service/conversational-language-understanding/prebuilt-component-reference)
+* [Bot Framework Samples](https://github.com/microsoft/BotBuilder-Samples)
+* [Custom Vision プロジェクトのドメインを選択する - Azure AI Vision - Azure AI services | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/custom-vision-service/select-domain)
+* [言語サポート - Azure AI Vision - Azure AI services | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/computer-vision/language-support)
