@@ -29,9 +29,9 @@
 
 ■[ラボファイルのダウンロード](https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp/archive/refs/heads/main.zip)
 
-* [01: Power BI Desktop でのデータの準備](https://github.com/MTT-ja/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp/blob/main/Instructions/01-prepare-data-with-power-query-in-power-bi-desktop.md)
-* [02: Power BI Desktop でデータを読み込む](https://github.com/MTT-ja/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp/blob/main/Instructions/02-load-data-with-power-query-in-power-bi-desktop.md)
-* [03: Power BI Desktop でデータをモデル化する](https://github.com/MTT-ja/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp/blob/main/Instructions/03-configure-data-model-in-power-bi-desktop.md)
+* [01: Power BI Desktop でデータを取得する](https://github.com/MTT-ja/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp/blob/main/Instructions/01-prepare-data-with-power-query-in-power-bi-desktop.md)
+* [02: 変換されたデータを Power BI Desktop に読み込む](https://github.com/MTT-ja/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp/blob/main/Instructions/02-load-data-with-power-query-in-power-bi-desktop.md)
+* [03: Power BI でデータ モデルを設計する](https://github.com/MTT-ja/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp/blob/main/Instructions/03-configure-data-model-in-power-bi-desktop.md)
 * [04: Power BI Desktop で DAX 計算を作成する](https://github.com/MTT-ja/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp/blob/main/Instructions/04-create-dax-calculations-in-power-bi-desktop.md)
 * [05: Power BI Desktop で高度な DAX 計算を作成する](https://github.com/MTT-ja/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp/blob/main/Instructions/05-create-dax-calculations-in-power-bi-desktop-advanced.md)
 * [06: Power BI Desktop でレポートを設計する](https://github.com/MTT-ja/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp/blob/main/Instructions/06-design-report-in-power-bi-desktop.md)
