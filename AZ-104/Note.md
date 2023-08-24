@@ -5,9 +5,9 @@
 
 ## ラボ
 
-■[セットアップ手順](https://publicfilestor.blob.core.windows.net/az104/Opening.pdf)
-
 ■[対話型シミュレーター](https://mslabs.cloudguides.com/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator)
+
+■[セットアップ手順](https://publicfilestor.blob.core.windows.net/az104/Opening.pdf)
 
 ■[ラボ環境](https://aka.ms/lab-env)
 
