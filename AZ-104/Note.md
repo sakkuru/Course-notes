@@ -42,7 +42,7 @@
 [[シミュレータ]](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%2013)
 * [ラボ 09b - Azure Container Instances を実装する](https://github.com/MTT-ja/AZ-104-MicrosoftAzureAdministrator.ja-jp/blob/main/Instructions/Labs/LAB_09b-Implement_Azure_Container_Instances.md)
 [[シミュレータ]](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%2014)
-* [ラボ 09c: Azure Container Apps を実装する](https://github.com/MTT-ja/AZ-104-MicrosoftAzureAdministrator.ja-jp/blob/main/Instructions/Labs/Lab_09c-Implement-Azure-Container-Apps.md.md)
+* [ラボ 09c Azure Container Apps を実装する](https://github.com/MTT-ja/AZ-104-MicrosoftAzureAdministrator.ja-jp/blob/main/Instructions/Labs/Lab_09c-Implement-Azure-Container-Apps.md.md)
 * [ラボ 10 - 仮想マシンのバックアップ](https://github.com/MTT-ja/AZ-104-MicrosoftAzureAdministrator.ja-jp/blob/main/Instructions/Labs/LAB_10-Implement_Data_Protection.md)
 [[シミュレータ]](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%2016)
 * [ラボ 11 - 監視を実装する](https://github.com/MTT-ja/AZ-104-MicrosoftAzureAdministrator.ja-jp/blob/main/Instructions/Labs/LAB_11-Implement_Monitoring.md)
