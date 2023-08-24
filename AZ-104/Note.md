@@ -13,7 +13,25 @@
 
 ■[ラボファイルのダウンロード](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/archive/master.zip)
 
-■[ラボの手順書](https://sakkuru.github.io/AZ-104-MicrosoftAzureAdministrator.ja-jp/)
+■[ラボ一覧](https://github.com/MTT-ja/AZ-104-MicrosoftAzureAdministrator.ja-jp/tree/main/Instructions/Labs)
+* [ラボ 01 - Azure Active Directory ID を管理する](https://github.com/MTT-ja/AZ-104-MicrosoftAzureAdministrator.ja-jp/blob/main/Instructions/Labs/LAB_01-Manage_Azure_AD_Identities.md)
+  * [シミュレーター](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%201)
+* [ラボ 02a - サブスクリプションと RBAC を管理する](https://github.com/MTT-ja/AZ-104-MicrosoftAzureAdministrator.ja-jp/blob/main/Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC.md)
+  * [シミュレーター](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%202)
+* [ラボ 02b - Azure Policy を介してガバナンスを管理する](https://github.com/MTT-ja/AZ-104-MicrosoftAzureAdministrator.ja-jp/blob/main/Instructions/Labs/LAB_02b-Manage_Governance_via_Azure_Policy.md)
+  * [シミュレーター](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%203)
+* [ラボ 03a - Azure portal を使用して Azure リソースを管理する](https://github.com/MTT-ja/AZ-104-MicrosoftAzureAdministrator.ja-jp/blob/main/Instructions/Labs/LAB_03a-Manage_Azure_Resources_by_Using_the_Azure_Portal.md)
+  * [シミュレーター](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%204)
+* [ラボ 03b - ARM テンプレートを使用して Azure リソースを管理する](https://github.com/MTT-ja/AZ-104-MicrosoftAzureAdministrator.ja-jp/blob/main/Instructions/Labs/LAB_03b-Manage_Azure_Resources_by_Using_ARM_Templates.md)
+  * [シミュレーター](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%205)
+* [ラボ 03c - Azure PowerShell を使用して Azure リソースを管理する](https://github.com/MTT-ja/AZ-104-MicrosoftAzureAdministrator.ja-jp/blob/main/Instructions/Labs/LAB_03c-Manage_Azure_Resources_by_Using_Azure_PowerShell.md)
+  * [シミュレーター](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%206)
+* [ラボ 03d - Azure CLI を使用して Azure リソースを管理する](https://github.com/MTT-ja/AZ-104-MicrosoftAzureAdministrator.ja-jp/blob/main/Instructions/Labs/LAB_03d-Manage_Azure_Resources_by_Using_Azure_CLI.md)
+  * [シミュレーター](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%207)
+* [ラボ 04 - 仮想ネットワークを実装する](https://github.com/MTT-ja/AZ-104-MicrosoftAzureAdministrator.ja-jp/blob/main/Instructions/Labs/LAB_04-Implement_Virtual_Networking.md)
+* [ラボ 05 - サイト間の接続性を実装する](https://github.com/MTT-ja/AZ-104-MicrosoftAzureAdministrator.ja-jp/blob/main/Instructions/Labs/LAB_05-Implement_Intersite_Connectivity.md)
+* [ラボ 06 - トラフィック管理を実装する](https://github.com/MTT-ja/AZ-104-MicrosoftAzureAdministrator.ja-jp/blob/main/Instructions/Labs/LAB_06-Implement_Network_Traffic_Management.md)
+
 
 ## その他リンク
 
