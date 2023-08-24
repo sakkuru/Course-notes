@@ -1,19 +1,19 @@
 # AZ-104 Microsoft Azure Administrator
 
-■[セットアップ手順](https://publicfilestor.blob.core.windows.net/az104/Opening.pdf)
-
 ■[公式テキスト](https://learn.microsoft.com/ja-jp/training/courses/az-104t00?wt.mc_id=esi_m2l_content_wwl#study-guide)
 
 
 ## ラボ
+
+■[セットアップ手順](https://publicfilestor.blob.core.windows.net/az104/Opening.pdf)
+
+■[対話型シミュレーター](https://mslabs.cloudguides.com/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator)
 
 ■[ラボ環境](https://aka.ms/lab-env)
 
 ■[ラボファイルのダウンロード](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/archive/master.zip)
 
 ■[ラボの手順書](https://sakkuru.github.io/AZ-104-MicrosoftAzureAdministrator.ja-jp/)
-
-■[Azure Passの残額等の確認](https://www.microsoftazuresponsorships.com/)
 
 ## その他リンク
 
