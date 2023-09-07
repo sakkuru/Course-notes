@@ -51,7 +51,7 @@
 * [Lab17: Azure Stream Analytics の概要](https://github.com/MTT-ja/dp-203-azure-data-engineer.ja-jp/blob/main/Instructions/Labs/17-stream-analytics.md)
 * [Lab18: Azure Stream Analytics と Azure Synapse Analytics を使ってリアルタイム データを取り込む](https://github.com/MTT-ja/dp-203-azure-data-engineer.ja-jp/blob/main/Instructions/Labs/18-Ingest-stream-synapse.md)
 * [Lab19: Azure Stream Analytics と Microsoft Power BI を使用してリアルタイム レポートを作成する](https://github.com/MTT-ja/dp-203-azure-data-engineer.ja-jp/blob/main/Instructions/Labs/19-Stream-Power-BI.md)
-* [Lab22: Azure Synapse Analytics で Microsoft Purview を使用する](https://github.com/MTT-ja/dp-203-azure-data-engineer.ja-jp/blob/main/Instructions/Labs/22-Synapse-purview.md)
+* ~~[Lab22: Azure Synapse Analytics で Microsoft Purview を使用する](https://github.com/MTT-ja/dp-203-azure-data-engineer.ja-jp/blob/main/Instructions/Labs/22-Synapse-purview.md)~~
 * [Lab23: Azure Databricks を探索する](https://github.com/MTT-ja/dp-203-azure-data-engineer.ja-jp/blob/main/Instructions/Labs/23-Explore-Azure-Databricks.md)
 * [Lab24: Azure Databricks で Spark を使用する](https://github.com/MTT-ja/dp-203-azure-data-engineer.ja-jp/blob/main/Instructions/Labs/24-Analyze-Files-in-Azure-Databricks.md)
 * [Lab25: Azure Databricks で Delta Lake を使用する](https://github.com/MTT-ja/dp-203-azure-data-engineer.ja-jp/blob/main/Instructions/Labs/25-Delta-lake-in-Azure-Databricks.md)
