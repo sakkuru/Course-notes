@@ -16,6 +16,8 @@
 ■[ラボ一覧](https://github.com/MTT-ja/AZ-104-MicrosoftAzureAdministrator.ja-jp/tree/main/Instructions/Labs)
 * [ラボ 01 - Azure Active Directory ID を管理する](https://github.com/MTT-ja/AZ-104-MicrosoftAzureAdministrator.ja-jp/blob/main/Instructions/Labs/LAB_01-Manage_Azure_AD_Identities.md)
 [[シミュレータ]](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%201)
+  * [(Entra ID ver.)ラボ 01 - Microsoft Entra ID を管理する](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator.ja-jp/blob/main/Instructions/Labs/LAB_01-Manage_Entra_ID_Identities.md)
+[[シミュレータ]](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%201)
 * [ラボ 02a - サブスクリプションと RBAC を管理する](https://github.com/MTT-ja/AZ-104-MicrosoftAzureAdministrator.ja-jp/blob/main/Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC.md)
 [[シミュレータ]](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%202)
 * [ラボ 02b - Azure Policy を介してガバナンスを管理する](https://github.com/MTT-ja/AZ-104-MicrosoftAzureAdministrator.ja-jp/blob/main/Instructions/Labs/LAB_02b-Manage_Governance_via_Azure_Policy.md)
