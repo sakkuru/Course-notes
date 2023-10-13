@@ -4,6 +4,7 @@
 
 ■[公式テキスト](https://learn.microsoft.com/ja-jp/training/courses/ai-050t00#study-guide)
 
+■[Azure OpenAI Studio](https://oai.azure.com/)
 
 ## 参考リンク
 
