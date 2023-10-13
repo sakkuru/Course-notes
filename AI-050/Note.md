@@ -17,14 +17,18 @@
 * [Azure OpenAI Service の REST API リファレンス - Azure OpenAI | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/reference)
 * [マネージド ID を使用して Azure OpenAI Service を構成する方法 - Azure OpenAI | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/managed-identity)
 * [Azure OpenAI を使用したプロンプト エンジニアリング手法 - Azure OpenAI Service | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
-
 ---
-* [プレビュー使用条件 | Microsoft Azure](https://azure.microsoft.com/ja-jp/support/legal/preview-supplemental-terms)
-    * 知的財産権。Microsoft がお客様の出力コンテンツを所有することはありません。お客様は、生成 AI システムが複数のお客様からの類似のプロンプトまたはクエリに対して類似の応答を生成する場合があること、および出力コンテンツにおけるお客様の権利は AOAI プレビューの他のユーザーに対して行使可能ではない場合もあることを理解し、認めるものとします。
-    * 第三者の申し立て。お客様は、適用される法令に準拠してお客様の AOAI プレビューの使用に関する第三者の申し立てに対応する責任を負います (これには、お客様による AOAI プレビューの使用中に出力される出力コンテンツに関連する著作権の侵害やその他の申し立てが含まれますが、これに限定されるものではありません)。
+
 * [Azure OpenAI Service でコンテンツ フィルター (プレビュー) を使用する方法 - Azure OpenAI | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/content-filters)
-  
 * [Azure OpenAI Service で関数呼び出しを使用する方法 - Azure OpenAI Service | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/function-calling)
 * [Data, privacy, and security for Azure OpenAI Service - Azure AI services | Microsoft Learn](https://learn.microsoft.com/ja-jp/legal/cognitive-services/openai/data-privacy)
 * [Azure OpenAI Service で独自のデータを使用する - Azure OpenAI | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/use-your-data)
 * [microsoft/sample-app-aoai-chatGPT: [PREVIEW] Sample code for a simple web chat experience targeting chatGPT through AOAI.](https://github.com/microsoft/sample-app-aoai-chatGPT/tree/main)
+
+
+---
+* [プレビュー使用条件 | Microsoft Azure](https://azure.microsoft.com/ja-jp/support/legal/preview-supplemental-terms)
+    * 第三者の申し立て。お客様は、適用される法令に準拠してお客様の AOAI プレビューの使用に関する第三者の申し立てに対応する責任を負います (これには、お客様による AOAI プレビューの使用中に出力される出力コンテンツに関連する著作権の侵害やその他の申し立てが含まれますが、これに限定されるものではありません)。
+    * 【参考】[Microsoft 365 Copilot が作成するコンテンツについて](https://learn.microsoft.com/ja-jp/microsoft-365-copilot/microsoft-365-copilot-privacy#about-the-content-that-microsoft-365-copilot-creates)
+       * 第三者が、Microsoft の Copilots またはそれが生成する出力の使用による著作権侵害で法人顧客を訴えた場合、顧客が当社製品に組み込まれているガードレールとコンテンツ フィルターを使用している限り、Microsoft は顧客を弁護し、訴訟の結果として生じる不利な判決または和解の金額を支払います。
+       * [Microsoft announces new Copilot Copyright Commitment for customers - Microsoft On the Issues](https://blogs.microsoft.com/on-the-issues/2023/09/07/copilot-copyright-commitment-ai-legal-concerns/)
