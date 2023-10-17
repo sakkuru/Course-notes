@@ -49,7 +49,6 @@
 * [08: 音声の翻訳](https://github.com/MTT-ja/AI-102-AIEngineer.ja-jp/blob/main/Instructions/08-translate-speech.md)
 * [09: 言語サービスで言語理解モデルを作成する](https://github.com/MTT-ja/AI-102-AIEngineer.ja-jp/blob/main/Instructions/09b-language-understanding-(preview).md)
 * [10: 言語サービス クライアント アプリケーションを作成する](https://github.com/MTT-ja/AI-102-AIEngineer.ja-jp/blob/main/Instructions/10b-language-understanding-client-(preview).md)
-* [11: Speech および Language Understanding サービスの使用](https://github.com/MTT-ja/AI-102-AIEngineer.ja-jp/blob/main/Instructions/11-language-understanding-speech.md)
 * [12: 質問応答ソリューションを作成する](https://github.com/MTT-ja/AI-102-AIEngineer.ja-jp/blob/japanese/Instructions/12-qna-maker.md)
 * [13: Bot Framework SDK を使用したボットの作成](https://github.com/MTT-ja/AI-102-AIEngineer.ja-jp/blob/main/Instructions/13-bot-framework.md)
 * [14: Bot Framework Composer を使用したボットの作成](https://github.com/MTT-ja/AI-102-AIEngineer.ja-jp/blob/main/Instructions/14-bot-composer.md)
